@@ -195,8 +195,9 @@ form.contact-form {
 
 @media screen and (max-width: 1023px) {
 
-    /*
-        手機版的 css 都寫在這邊
-    */
+  .container {
+    width: auto;
+  }
+
 
 }
